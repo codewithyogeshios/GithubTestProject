@@ -24,3 +24,10 @@ class ViewController: UIViewController {
 
 }
 
+extension ViewController{
+    
+    func configuration(){
+        
+    }
+}
+
